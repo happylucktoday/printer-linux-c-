@@ -1,0 +1,6 @@
+
+Needs write C++ module for linux application.
+Class or module should make connection to printer and prints tickets with FutureLogic Gen2 printer.
+Futurelogic Gen2 works with com port only.
+use boost please
+it , must works with printer, initialize it and prints all basic templates
